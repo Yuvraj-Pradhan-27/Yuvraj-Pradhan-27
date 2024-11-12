@@ -9,7 +9,7 @@ Aspiring AI Engineer | 2nd-Year Student | Exploring Artificial Intelligence and 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yuvraj-Pradhan-27&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Yuvraj-Pradhan-27&icon=0&color=1)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_uvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-pradhan-27uv/) 
