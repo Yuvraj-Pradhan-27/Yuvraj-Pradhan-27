@@ -7,4 +7,29 @@ Aspiring AI Engineer | 2nd-Year Student | Exploring Artificial Intelligence and 
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj-Pradhan-27&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj-Pradhan-27&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj-Pradhan-27&…
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj-Pradhan-27&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvraj-Pradhan-27&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvraj-Pradhan-27&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Pradhan-27&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Pradhan-27&theme=radical">
+
+</div><br>
+
+---
+
+<div align="center">
+
+---
+
+### ✍️ Quote Of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+![](https://visitcount.itsvg.in/api?id=Yuvraj-Pradhan-27&icon=0&color=1)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_uvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-pradhan-27uv/) 
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
+</p>
